@@ -2,11 +2,27 @@
 
 A data analysis project exploring synthetic election data for Nepal's hypothetical 2082 BS general election. The dataset covers political parties, candidates, voters, votes, campaign events, social media trends, media coverage, and political scandals across 55 constituencies.
 
+> **Disclaimer:** All data in this project is entirely **fictional and synthetically generated using Claude (Anthropic)**. It was created solely for **educational and learning purposes**. None of the data represents real election outcomes, real individuals, real political parties, or actual events. Any resemblance to real persons or organizations is purely coincidental and unintentional. **Do not cite this data as factual or use it for any real-world decision-making.**
+
 ## About the Data
 
-All data in this project is **synthetically generated using Claude (Anthropic)** for educational and analytical purposes. It does not represent real election outcomes or real individuals. The data is designed to mimic realistic patterns found in Nepali elections while being entirely fictional.
+The dataset is designed to mimic realistic patterns found in Nepali elections while being entirely synthetic. It was generated with the help of [Claude by Anthropic](https://www.anthropic.com/).
 
-Dates in the dataset use the **Bikram Sambat (BS) calendar**, consistent with Nepal's official calendar system (e.g., 2082-04-15).
+Dates use the **Bikram Sambat (BS) calendar**, consistent with Nepal's official calendar system (e.g., 2082-04-15).
+
+## Sample Results
+
+### Parliament Composition
+![Parliament composition](images/parliament.png)
+
+### Winner Vote Percentage by Constituency
+![Winner vote percentage](images/winner_vote_pct.png)
+
+### Feature Importance (Random Forest Model)
+![Feature importance](images/feature_importance.png)
+
+### Prediction: Actual vs Predicted Vote %
+![Prediction scatter](images/prediction_scatter.png)
 
 ## Project Structure
 
@@ -125,33 +141,25 @@ jupyter notebook Analysis/nepal_election_2082_analysis.ipynb
 
 ## License
 
-This project and its synthetic data are provided for educational purposes.
+This project and its synthetic data are provided for educational purposes only.
 
-## Images
+> **Reminder:** This is NOT real data. Everything — parties, candidates, voters, votes, results, scandals — is synthetically generated for learning. Do not treat any of it as factual.
 
-If you want ready-made charts embedded in the README, run the exporter script to generate images into the `images/` folder and then add them to the README.
+## Regenerating Images
 
-To generate images from the CSVs (non-interactive):
+To regenerate the charts from the CSVs (non-interactive):
 
 ```bash
 .venv\Scripts\activate   # Windows
 python scripts/export_images.py
 ```
 
-The script will create the following files in `images/`:
+This creates the following in `images/`:
 
-- `images/parliament.png` — seat distribution and donut chart
-- `images/winner_vote_pct.png` — winner vote percentage by constituency
-- `images/feature_importance.png` — Random Forest feature importance
-
-- `images/prediction_scatter.png` — Actual vs predicted vote percentage scatter
-- `images/predictions.csv` — Table of `candidate_id`, `actual_vote_percentage`, `predicted_vote_percentage`
-
-After running the script, insert images in the README using Markdown, for example:
-
-```
-![Parliament composition](images/parliament.png)
-*Parliament composition — seats won by party (synthetic data).* 
-```
-
-Please note: the images and analysis are produced from synthetic data generated for educational purposes and do not represent real people or real election results.
+| File | Description |
+|------|-------------|
+| `parliament.png` | Seat distribution bar + donut chart |
+| `winner_vote_pct.png` | Winner vote % by constituency |
+| `feature_importance.png` | Random Forest feature importance |
+| `prediction_scatter.png` | Actual vs predicted vote % scatter |
+| `predictions.csv` | Per-candidate actual & predicted vote % |
