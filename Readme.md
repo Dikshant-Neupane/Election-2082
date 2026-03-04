@@ -2,11 +2,11 @@
 
 A data analysis project exploring synthetic election data for Nepal's hypothetical 2082 BS general election. The dataset covers political parties, candidates, voters, votes, campaign events, social media trends, media coverage, and political scandals across 55 constituencies.
 
-> **Disclaimer:** All data in this project is entirely **fictional and synthetically generated using Claude (Anthropic)**. It was created solely for **educational and learning purposes**. None of the data represents real election outcomes, real individuals, real political parties, or actual events. Any resemblance to real persons or organizations is purely coincidental and unintentional. **Do not cite this data as factual or use it for any real-world decision-making.**
+> **Disclaimer:** All data in this project is entirely **fictional and synthetically generated**. It was created solely for **educational and learning purposes**. None of the data represents real election outcomes, real individuals, real political parties, or actual events. Any resemblance to real persons or organizations is purely coincidental and unintentional. **Do not cite this data as factual or use it for any real-world decision-making.**
 
 ## About the Data
 
-The dataset is designed to mimic realistic patterns found in Nepali elections while being entirely synthetic. It was generated with the help of [Claude by Anthropic](https://www.anthropic.com/).
+The dataset is designed to mimic realistic patterns found in Nepali elections while being entirely synthetic.
 
 Dates use the **Bikram Sambat (BS) calendar**, consistent with Nepal's official calendar system (e.g., 2082-04-15).
 
