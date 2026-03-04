@@ -126,3 +126,29 @@ jupyter notebook Analysis/nepal_election_2082_analysis.ipynb
 ## License
 
 This project and its synthetic data are provided for educational purposes.
+
+## Images
+
+If you want ready-made charts embedded in the README, run the exporter script to generate images into the `images/` folder and then add them to the README.
+
+To generate images from the CSVs (non-interactive):
+
+```bash
+.venv\Scripts\activate   # Windows
+python scripts/export_images.py
+```
+
+The script will create the following files in `images/`:
+
+- `images/parliament.png` — seat distribution and donut chart
+- `images/winner_vote_pct.png` — winner vote percentage by constituency
+- `images/feature_importance.png` — Random Forest feature importance
+
+After running the script, insert images in the README using Markdown, for example:
+
+```
+![Parliament composition](images/parliament.png)
+*Parliament composition — seats won by party (synthetic data).* 
+```
+
+Please note: the images and analysis are produced from synthetic data generated for educational purposes and do not represent real people or real election results.
