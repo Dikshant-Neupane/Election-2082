@@ -1,0 +1,301 @@
+news_id,headline,candidate_id,news_source,sentiment,impact_score,publication_date
+1,Kamal Awasthi embroiled in controversy over education,56,Nagarik News,Negative,1.13,2082-03-15
+2,Ram Sapkota unveils comprehensive governance manifesto,26,Setopati,Positive,3.51,2082-03-24
+3,Opposition calls for inquiry into Gopal Oli's healthcare dealings,79,Rising Nepal,Negative,9.85,2082-02-02
+4,Opposition calls for inquiry into Kamal Awasthi's employment dealings,56,Annapurna Post,Negative,5.42,2082-02-01
+5,Voters rally behind Bimal Magar for healthcare agenda,57,Nagarik News,Positive,4.92,2082-02-22
+6,Prakash Shrestha files candidacy for Janakpur constituency,145,Rising Nepal,Neutral,7.55,2082-04-13
+7,Renu Bogati leads polls in Bharatpur according to latest survey,194,Nagarik News,Positive,7.06,2082-02-19
+8,Dilip Rokaya receives endorsement from corruption leaders,185,Deshsanchar,Positive,3.04,2082-04-08
+9,Juna Poudel praised for inclusive economy policies,89,Nagarik News,Positive,5.41,2082-02-24
+10,Jamuna Khanal declares assets worth NPR 15.4 crore,203,Image Channel,Neutral,6.94,2082-04-09
+11,Tek Tiwari's rally draws massive crowd in Nepalgunj,154,Annapurna Post,Positive,1.83,2082-02-11
+12,Chandrika Upadhyay promises to transform education in 100 days,107,Annapurna Post,Positive,1.99,2082-02-06
+13,Sabina Magar campaigns in rural Dharan districts,140,NTV Plus,Neutral,9.18,2082-04-05
+14,Prakash Shrestha campaigns in rural Hetauda districts,145,Nepal TV,Neutral,1.16,2082-04-10
+15,Critics question Yasoda Oli's stance on governance,197,The Himalayan Times,Negative,9.48,2082-02-09
+16,Shila Airee praised for inclusive agriculture policies,130,Ratopati,Positive,7.34,2082-04-02
+17,Jeevan Sah holds press conference on agriculture agenda,115,Nepal TV,Neutral,5.5,2082-03-27
+18,Bhuwan Parajuli leads polls in Dharan according to latest survey,30,Online Khabar,Positive,5.26,2082-02-24
+19,Ganga Chaudhary campaigns in rural Nepalgunj districts,195,Ratopati,Neutral,7.91,2082-03-21
+20,Rekha Joshi holds press conference on economy agenda,211,Annapurna Post,Neutral,4.34,2082-02-03
+21,Pradeep Chand campaigns in rural Dharan districts,160,My Republica,Neutral,9.51,2082-03-10
+22,Bikash Magar accused of vote-buying in Dharan,210,Online Khabar,Negative,9.74,2082-02-11
+23,Om Parajuli campaigns in rural Pokhara districts,127,Annapurna Post,Neutral,9.69,2082-02-20
+24,Jamuna Khanal's campaign finances under scrutiny,203,Ratopati,Negative,1.35,2082-02-12
+25,Badri Regmi holds press conference on agriculture agenda,54,My Republica,Neutral,1.97,2082-04-08
+26,Voters rally behind Kiran Pandey for healthcare agenda,111,Kantipur Daily,Positive,7.54,2082-04-10
+27,Rajan Adhikari embroiled in controversy over employment,153,My Republica,Negative,6.65,2082-02-26
+28,Dilip Basnet's campaign finances under scrutiny,51,Ratopati,Negative,3.07,2082-02-20
+29,Bhuwan Bhusal declares assets worth NPR 8.8 crore,15,The Himalayan Times,Neutral,2.91,2082-04-08
+30,Election Commission verifies Hira Rai's credentials,3,Nagarik News,Neutral,3.23,2082-02-20
+31,Puspa Thapa files candidacy for Kathmandu constituency,137,Rising Nepal,Neutral,2.0,2082-04-03
+32,Kiran Airee declares assets worth NPR 5.7 crore,136,Online Khabar,Neutral,3.94,2082-04-08
+33,Hari Pandey holds press conference on agriculture agenda,38,Deshsanchar,Neutral,8.88,2082-02-12
+34,Lekh Dahal promises to transform economy in 100 days,47,Rising Nepal,Positive,8.24,2082-04-09
+35,Bimal Magar faces allegations of financial misconduct,57,Setopati,Negative,7.58,2082-02-02
+36,Bhim Mandal declares assets worth NPR 5.0 crore,81,Online Khabar,Neutral,4.39,2082-03-26
+37,Jeevan Airee promises to transform infrastructure in 100 days,169,My Republica,Positive,8.82,2082-03-16
+38,Mana Parajuli praised for inclusive employment policies,118,Deshsanchar,Positive,4.61,2082-03-01
+39,Ganesh Regmi promises to transform employment in 100 days,82,Kantipur Daily,Positive,9.28,2082-03-08
+40,Laxmi Sapkota embroiled in controversy over governance,200,Image Channel,Negative,6.76,2082-02-13
+41,Election Commission verifies Meena Bhusal's credentials,32,Online Khabar,Neutral,2.49,2082-03-18
+42,Sunita Tiwari's rally draws massive crowd in Butwal,31,Deshsanchar,Positive,3.22,2082-02-19
+43,Man Bhusal files candidacy for Butwal constituency,90,My Republica,Neutral,6.78,2082-04-08
+44,Shova Chand's campaign finances under scrutiny,68,Image Channel,Negative,5.28,2082-03-12
+45,Bimal Devkota's campaign finances under scrutiny,5,Image Channel,Negative,9.15,2082-04-01
+46,Suman Devkota's rally draws massive crowd in Pokhara,93,Kantipur Daily,Positive,3.53,2082-02-11
+47,Voters rally behind Lekh Sapkota for employment agenda,114,Avenues TV,Positive,1.61,2082-03-12
+48,Critics question Dil Mahato's stance on agriculture,181,Nagarik News,Negative,5.05,2082-04-04
+49,Man Mahato leads polls in Biratnagar according to latest survey,97,Online Khabar,Positive,4.05,2082-02-12
+50,Ranjana Tamang embroiled in controversy over education,213,Deshsanchar,Negative,8.37,2082-02-28
+51,Voters rally behind Jamuna Khanal for employment agenda,203,Rising Nepal,Positive,7.49,2082-04-04
+52,Dipak Pandey declares assets worth NPR 1.3 crore,34,Nepal TV,Neutral,2.7,2082-03-22
+53,Sanjay Roka holds press conference on corruption agenda,39,My Republica,Neutral,6.09,2082-02-07
+54,Maya Mahato's rally draws massive crowd in Dharan,13,Ratopati,Positive,9.48,2082-02-20
+55,Pramod Bhusal praised for inclusive education policies,75,NTV Plus,Positive,6.7,2082-02-01
+56,Padam Chaudhary's campaign finances under scrutiny,121,Kantipur Daily,Negative,1.39,2082-03-24
+57,Durga Limbu promises to transform infrastructure in 100 days,149,Nagarik News,Positive,2.5,2082-03-14
+58,Dipak Joshi participates in all-party debate on employment,83,Image Channel,Neutral,3.18,2082-03-13
+59,Voters rally behind Pradeep Chand for education agenda,160,Deshsanchar,Positive,7.05,2082-03-08
+60,Shankar Sharma receives endorsement from economy leaders,143,Gorkhapatra,Positive,3.1,2082-03-09
+61,Election Commission verifies Bimal Magar's credentials,57,Online Khabar,Neutral,8.23,2082-02-07
+62,Kalpana Poudel declares assets worth NPR 76.0 crore,77,Nepal TV,Neutral,4.11,2082-03-17
+63,Bimala Chhetri's rally draws massive crowd in Hetauda,133,Nagarik News,Positive,4.25,2082-02-10
+64,Shova Chand campaigns in rural Janakpur districts,68,NTV Plus,Neutral,4.01,2082-03-06
+65,Pramod Bhusal praised for inclusive healthcare policies,75,Nagarik News,Positive,4.6,2082-04-03
+66,Rashmi Pandey declares assets worth NPR 10.9 crore,139,Annapurna Post,Neutral,6.01,2082-04-02
+67,Shanta Bhusal leads polls in Nepalgunj according to latest survey,124,Avenues TV,Positive,6.98,2082-04-03
+68,Ek Dhakal promises to transform corruption in 100 days,48,Gorkhapatra,Positive,1.02,2082-04-12
+69,Sumitra Magar's rally draws massive crowd in Butwal,150,Rising Nepal,Positive,8.21,2082-03-12
+70,Pramod Yadav files candidacy for Butwal constituency,99,Rising Nepal,Neutral,1.26,2082-02-25
+71,Govinda Chhetri's rally draws massive crowd in Kathmandu,72,Rising Nepal,Positive,7.82,2082-04-01
+72,Voters rally behind Bimala Tharu for economy agenda,63,Annapurna Post,Positive,7.17,2082-04-02
+73,Rabindra Upadhyay promises to transform employment in 100 days,177,Avenues TV,Positive,7.27,2082-04-02
+74,Opposition calls for inquiry into Kiran Neupane's education dealings,165,Ratopati,Negative,3.23,2082-04-04
+75,Voters rally behind Jamuna Chalise for economy agenda,101,NTV Plus,Positive,8.6,2082-02-05
+76,Kiran Airee praised for inclusive education policies,171,Image Channel,Positive,1.33,2082-02-16
+77,Election Commission verifies Bina Chaudhary's credentials,70,Setopati,Neutral,1.29,2082-03-13
+78,Voters rally behind Ram Tamang for governance agenda,24,Rising Nepal,Positive,7.13,2082-02-07
+79,Pramod Yadav campaigns in rural Janakpur districts,99,Avenues TV,Neutral,6.81,2082-03-25
+80,Laxmi Sapkota leads polls in Dharan according to latest survey,200,Online Khabar,Positive,9.08,2082-04-10
+81,Dil Mahato campaigns in rural Dharan districts,181,NTV Plus,Neutral,2.53,2082-03-21
+82,Jamuna Khanal praised for inclusive healthcare policies,203,Online Khabar,Positive,6.53,2082-04-09
+83,Election Commission verifies Sushil Sah's credentials,146,Setopati,Neutral,2.41,2082-02-25
+84,Naresh Bohora praised for inclusive economy policies,175,Ratopati,Positive,4.18,2082-02-11
+85,Narayan Giri receives endorsement from healthcare leaders,65,Deshsanchar,Positive,9.84,2082-02-01
+86,Devi Tiwari campaigns in rural Pokhara districts,182,My Republica,Neutral,7.62,2082-04-11
+87,Shyam Yadav holds press conference on governance agenda,18,Setopati,Neutral,2.95,2082-02-06
+88,Critics question Hira Bhandari's stance on economy,173,Nagarik News,Negative,1.79,2082-03-20
+89,Opposition calls for inquiry into Rabindra Sharma's healthcare dealings,141,Rising Nepal,Negative,6.95,2082-02-19
+90,Yasoda Parajuli promises to transform corruption in 100 days,96,Deshsanchar,Positive,5.42,2082-03-06
+91,Election Commission verifies Rabindra Sharma's credentials,141,Ratopati,Neutral,9.55,2082-03-03
+92,Tek Tiwari's rally draws massive crowd in Pokhara,154,Nagarik News,Positive,2.07,2082-03-02
+93,Soniya Upadhyay accused of vote-buying in Kathmandu,205,Setopati,Negative,1.16,2082-03-12
+94,Puspa Thapa embroiled in controversy over employment,137,Ratopati,Negative,5.8,2082-03-02
+95,Ganesh Bohora participates in all-party debate on infrastructure,42,My Republica,Neutral,5.42,2082-03-26
+96,Jit Chalise campaigns in rural Biratnagar districts,106,My Republica,Neutral,1.44,2082-03-25
+97,Ranjana Bhusal receives endorsement from governance leaders,112,Image Channel,Positive,1.74,2082-02-17
+98,Narayan Giri campaigns in rural Hetauda districts,65,Avenues TV,Neutral,2.79,2082-02-21
+99,Yasoda Joshi praised for inclusive education policies,159,Rising Nepal,Positive,4.03,2082-03-17
+100,Chandra Ghimire faces allegations of financial misconduct,144,Online Khabar,Negative,6.68,2082-02-24
+101,Dilip Bhandari promises to transform infrastructure in 100 days,10,The Himalayan Times,Positive,2.39,2082-02-24
+102,Lekh Dahal promises to transform economy in 100 days,47,Annapurna Post,Positive,5.89,2082-04-11
+103,Voters express dissatisfaction with Hira Bhandari's record,173,NTV Plus,Negative,6.61,2082-02-27
+104,Sangita Subba unveils comprehensive corruption manifesto,53,Avenues TV,Positive,6.03,2082-03-06
+105,Kalpana Poudel accused of vote-buying in Biratnagar,77,Gorkhapatra,Negative,8.02,2082-04-10
+106,Rudra Rokaya holds press conference on healthcare agenda,73,Kantipur Daily,Neutral,6.22,2082-03-05
+107,Padam Pandey accused of vote-buying in Pokhara,131,Nepal TV,Negative,3.06,2082-03-28
+108,Gita Devkota's campaign finances under scrutiny,44,My Republica,Negative,4.92,2082-04-09
+109,Voters rally behind Rajesh Koirala for education agenda,191,Image Channel,Positive,4.03,2082-02-19
+110,Puspa Thapa holds press conference on education agenda,137,Rising Nepal,Neutral,2.41,2082-03-06
+111,Narayan Adhikari campaigns in rural Hetauda districts,199,My Republica,Neutral,3.35,2082-02-25
+112,Roshan Chhetri promises to transform agriculture in 100 days,55,My Republica,Positive,3.2,2082-04-10
+113,Pradeep Chand leads polls in Butwal according to latest survey,160,Avenues TV,Positive,2.74,2082-02-28
+114,Sushil Awasthi accused of vote-buying in Janakpur,180,Online Khabar,Negative,9.25,2082-03-27
+115,Binod Niraula praised for inclusive employment policies,190,Setopati,Positive,1.38,2082-02-16
+116,Bimal Lamichhane receives endorsement from education leaders,33,Ratopati,Positive,7.89,2082-03-31
+117,Bal Oli accused of vote-buying in Butwal,11,Deshsanchar,Negative,6.93,2082-03-23
+118,Devi Awasthi unveils comprehensive employment manifesto,201,Gorkhapatra,Positive,2.88,2082-03-26
+119,Bimala Chhetri faces allegations of financial misconduct,133,Image Channel,Negative,4.59,2082-04-04
+120,Opposition calls for inquiry into Jit Chalise's economy dealings,106,Nepal TV,Negative,2.27,2082-03-02
+121,Voters rally behind Badri Regmi for healthcare agenda,54,Online Khabar,Positive,2.1,2082-02-11
+122,Ganesh Regmi's rally draws massive crowd in Hetauda,82,The Himalayan Times,Positive,2.9,2082-03-18
+123,Rabindra Upadhyay participates in all-party debate on healthcare,177,Deshsanchar,Neutral,9.3,2082-03-11
+124,Sanjay Bogati praised for inclusive education policies,193,Avenues TV,Positive,1.76,2082-03-01
+125,Bimal Lamichhane praised for inclusive governance policies,33,Kantipur Daily,Positive,6.46,2082-04-05
+126,Ganesh Bohora files candidacy for Hetauda constituency,42,Gorkhapatra,Neutral,8.75,2082-02-28
+127,Voters rally behind Ganga Chaudhary for education agenda,195,Annapurna Post,Positive,8.08,2082-02-08
+128,Narayan Adhikari embroiled in controversy over corruption,199,Annapurna Post,Negative,6.43,2082-04-08
+129,Man Mahato's campaign finances under scrutiny,97,Rising Nepal,Negative,3.93,2082-03-16
+130,Election Commission verifies Mana Parajuli's credentials,118,Setopati,Neutral,5.89,2082-03-10
+131,Voters express dissatisfaction with Kiran Neupane's record,165,Ratopati,Negative,8.93,2082-02-24
+132,Dilip Basnet unveils comprehensive employment manifesto,51,Nepal TV,Positive,6.53,2082-03-01
+133,Voters rally behind Rita Subedi for economy agenda,166,Gorkhapatra,Positive,1.91,2082-02-09
+134,Jamuna Tamang receives endorsement from healthcare leaders,60,Nepal TV,Positive,3.52,2082-02-01
+135,Voters rally behind Top Yadav for education agenda,71,Gorkhapatra,Positive,9.48,2082-03-13
+136,Lekh Dahal files candidacy for Hetauda constituency,47,Ratopati,Neutral,5.61,2082-04-02
+137,Rekha Tiwari files candidacy for Bharatpur constituency,126,Avenues TV,Neutral,9.01,2082-03-21
+138,Dipak Pandey receives endorsement from economy leaders,34,Kantipur Daily,Positive,4.43,2082-04-08
+139,Bimala Tharu declares assets worth NPR 52.5 crore,63,Nepal TV,Neutral,7.12,2082-03-20
+140,Opposition calls for inquiry into Kiran Pandey's economy dealings,111,NTV Plus,Negative,2.14,2082-02-22
+141,Prakash Thapa participates in all-party debate on healthcare,183,Ratopati,Neutral,3.87,2082-03-04
+142,Voters express dissatisfaction with Yasoda Parajuli's record,96,My Republica,Negative,5.38,2082-02-25
+143,Binod Koirala declares assets worth NPR 4.7 crore,170,The Himalayan Times,Neutral,1.18,2082-03-14
+144,Ranjana Tamang unveils comprehensive infrastructure manifesto,213,Setopati,Positive,3.47,2082-03-07
+145,Bikash Magar receives endorsement from employment leaders,210,Deshsanchar,Positive,1.02,2082-02-07
+146,Roshan Upadhyay leads polls in Kathmandu according to latest survey,37,Rising Nepal,Positive,2.15,2082-02-04
+147,Rabindra Sharma accused of vote-buying in Kathmandu,141,Gorkhapatra,Negative,3.14,2082-04-02
+148,Critics question Ganesh Bohora's stance on employment,42,Rising Nepal,Negative,8.94,2082-03-27
+149,Shanta Parajuli campaigns in rural Pokhara districts,168,Image Channel,Neutral,6.16,2082-02-07
+150,Kamal Rokaya holds press conference on governance agenda,179,NTV Plus,Neutral,2.56,2082-03-05
+151,Jeevan Airee campaigns in rural Pokhara districts,169,Setopati,Neutral,4.47,2082-02-14
+152,Puspa Bhusal participates in all-party debate on healthcare,162,Nagarik News,Neutral,6.12,2082-03-26
+153,Bed Subba's rally draws massive crowd in Bharatpur,132,Nagarik News,Positive,7.87,2082-03-04
+154,Voters express dissatisfaction with Tara Khadka's record,134,NTV Plus,Negative,7.05,2082-03-16
+155,Dilip Rokaya's rally draws massive crowd in Dharan,185,Ratopati,Positive,5.93,2082-03-15
+156,Rabindra Sharma embroiled in controversy over education,141,Deshsanchar,Negative,6.76,2082-02-28
+157,Pradeep Mahato declares assets worth NPR 9.9 crore,64,Ratopati,Neutral,5.38,2082-04-15
+158,Bal Oli declares assets worth NPR 29.5 crore,11,Online Khabar,Neutral,7.15,2082-03-19
+159,Voters express dissatisfaction with Kamal Awasthi's record,56,Image Channel,Negative,8.23,2082-03-04
+160,Ram Tamang leads polls in Pokhara according to latest survey,24,Ratopati,Positive,7.26,2082-04-06
+161,Bimala Magar files candidacy for Pokhara constituency,105,Setopati,Neutral,3.63,2082-02-18
+162,Narayan Adhikari's campaign finances under scrutiny,199,Gorkhapatra,Negative,7.77,2082-02-17
+163,Rajan Dahal leads polls in Janakpur according to latest survey,92,Annapurna Post,Positive,6.6,2082-02-15
+164,Shankar Bista participates in all-party debate on healthcare,156,NTV Plus,Neutral,1.23,2082-02-12
+165,Meena Saud holds press conference on agriculture agenda,202,Annapurna Post,Neutral,6.24,2082-03-08
+166,Critics question Puspa Thapa's stance on healthcare,137,Nepal TV,Negative,2.92,2082-03-20
+167,Pramod Bhusal leads polls in Hetauda according to latest survey,75,Nepal TV,Positive,5.1,2082-03-15
+168,Jit Chalise files candidacy for Janakpur constituency,106,Deshsanchar,Neutral,2.3,2082-03-26
+169,Kalpana Poudel accused of vote-buying in Dharan,77,Rising Nepal,Negative,6.16,2082-04-09
+170,Umesh Luitel participates in all-party debate on corruption,142,Nagarik News,Neutral,4.22,2082-04-11
+171,Election Commission verifies Shankar Limbu's credentials,138,Avenues TV,Neutral,3.61,2082-04-11
+172,Urmila Aryal praised for inclusive education policies,192,Online Khabar,Positive,3.38,2082-04-15
+173,Roop Devkota participates in all-party debate on healthcare,78,Annapurna Post,Neutral,5.37,2082-02-23
+174,Kamal Awasthi campaigns in rural Kathmandu districts,56,Ratopati,Neutral,3.68,2082-03-02
+175,Critics question Chandra Ghimire's stance on employment,144,NTV Plus,Negative,1.92,2082-04-06
+176,Sunita Tiwari's campaign finances under scrutiny,31,Gorkhapatra,Negative,2.05,2082-03-03
+177,Pramod Panta praised for inclusive healthcare policies,46,Ratopati,Positive,4.45,2082-04-08
+178,Man Joshi promises to transform corruption in 100 days,147,Deshsanchar,Positive,7.82,2082-02-14
+179,Shanta Regmi promises to transform corruption in 100 days,108,Setopati,Positive,9.87,2082-02-23
+180,Critics question Meena Joshi's stance on economy,50,Kantipur Daily,Negative,2.51,2082-04-10
+181,Jeevan Roka files candidacy for Biratnagar constituency,91,The Himalayan Times,Neutral,2.61,2082-03-14
+182,Sunita Giri campaigns in rural Hetauda districts,21,Kantipur Daily,Neutral,7.16,2082-03-08
+183,Bhim Rijal's campaign finances under scrutiny,86,Setopati,Negative,6.59,2082-02-02
+184,Election Commission verifies Puspa Bhusal's credentials,162,Rising Nepal,Neutral,8.62,2082-03-18
+185,Man Mahato unveils comprehensive healthcare manifesto,97,The Himalayan Times,Positive,3.95,2082-02-03
+186,Bhim Thapa holds press conference on corruption agenda,187,Rising Nepal,Neutral,8.33,2082-04-04
+187,Ek Dhakal unveils comprehensive employment manifesto,48,The Himalayan Times,Positive,6.76,2082-02-24
+188,Dipak Pandey's campaign finances under scrutiny,34,Annapurna Post,Negative,9.88,2082-03-31
+189,Maya Mahato holds press conference on governance agenda,13,The Himalayan Times,Neutral,7.43,2082-04-10
+190,Kiran Airee's rally draws massive crowd in Bharatpur,171,Image Channel,Positive,3.48,2082-03-11
+191,Voters express dissatisfaction with Naresh Bohora's record,175,Annapurna Post,Negative,3.31,2082-03-24
+192,Suman Devkota praised for inclusive governance policies,93,NTV Plus,Positive,7.47,2082-03-24
+193,Devi Tiwari praised for inclusive healthcare policies,182,Annapurna Post,Positive,3.11,2082-03-09
+194,Yasoda Joshi campaigns in rural Janakpur districts,159,Annapurna Post,Neutral,1.7,2082-02-01
+195,Jeevan Airee participates in all-party debate on corruption,169,Setopati,Neutral,9.97,2082-02-19
+196,Critics question Kiran Airee's stance on infrastructure,171,Gorkhapatra,Negative,1.21,2082-02-24
+197,Opposition calls for inquiry into Gopal Oli's governance dealings,79,Online Khabar,Negative,5.27,2082-02-05
+198,Jamuna Khanal campaigns in rural Bharatpur districts,203,Nagarik News,Neutral,1.74,2082-03-17
+199,Sushil Awasthi holds press conference on corruption agenda,180,My Republica,Neutral,4.76,2082-03-05
+200,Dipak Lama files candidacy for Hetauda constituency,184,Avenues TV,Neutral,2.19,2082-02-03
+201,Opposition calls for inquiry into Govinda Parajuli's employment dealings,158,Gorkhapatra,Negative,6.41,2082-03-12
+202,Suman Devkota files candidacy for Biratnagar constituency,93,My Republica,Neutral,2.46,2082-04-08
+203,Rabindra Mahato's rally draws massive crowd in Nepalgunj,186,Setopati,Positive,3.93,2082-04-13
+204,Opposition calls for inquiry into Bimala Chhetri's corruption dealings,133,Nepal TV,Negative,4.09,2082-04-14
+205,Renuka Bhusal's campaign finances under scrutiny,188,Gorkhapatra,Negative,3.85,2082-03-19
+206,Shanta Subedi declares assets worth NPR 25.8 crore,129,Nagarik News,Neutral,7.41,2082-03-05
+207,Padam Chaudhary files candidacy for Biratnagar constituency,121,Online Khabar,Neutral,2.15,2082-04-06
+208,Kamal Rokaya embroiled in controversy over governance,179,NTV Plus,Negative,8.6,2082-02-06
+209,Tek Limbu files candidacy for Hetauda constituency,109,Rising Nepal,Neutral,5.84,2082-02-13
+210,Sumitra Magar's rally draws massive crowd in Bharatpur,150,Annapurna Post,Positive,3.37,2082-02-09
+211,Bimala Tharu holds press conference on employment agenda,63,My Republica,Neutral,8.69,2082-03-25
+212,Sunita Giri promises to transform governance in 100 days,21,Kantipur Daily,Positive,1.93,2082-03-27
+213,Rudra Rokaya's campaign finances under scrutiny,73,NTV Plus,Negative,9.03,2082-03-29
+214,Opposition calls for inquiry into Shankar Bam's economy dealings,85,The Himalayan Times,Negative,4.19,2082-03-05
+215,Voters express dissatisfaction with Rabindra Upadhyay's record,177,Image Channel,Negative,2.21,2082-04-01
+216,Hira Bhandari participates in all-party debate on infrastructure,173,NTV Plus,Neutral,8.91,2082-02-23
+217,Opposition calls for inquiry into Rudra Thapa's healthcare dealings,16,Gorkhapatra,Negative,9.8,2082-03-23
+218,Opposition calls for inquiry into Bhuwan Bhusal's economy dealings,15,My Republica,Negative,2.01,2082-04-11
+219,Critics question Rajan Adhikari's stance on infrastructure,153,Rising Nepal,Negative,2.96,2082-04-07
+220,Dipak Lama declares assets worth NPR 14.6 crore,184,Nagarik News,Neutral,3.03,2082-04-12
+221,Jit Chalise campaigns in rural Biratnagar districts,106,Nepal TV,Neutral,9.8,2082-04-02
+222,Bed Subba embroiled in controversy over agriculture,132,My Republica,Negative,7.53,2082-02-23
+223,Bimal Tamang's campaign finances under scrutiny,207,Nepal TV,Negative,4.04,2082-03-26
+224,Hira Rai promises to transform healthcare in 100 days,3,Image Channel,Positive,8.93,2082-03-15
+225,Juna Poudel faces allegations of financial misconduct,89,My Republica,Negative,2.26,2082-03-20
+226,Padam Koirala leads polls in Bharatpur according to latest survey,2,My Republica,Positive,4.1,2082-03-13
+227,Renu Ghimire participates in all-party debate on governance,102,Image Channel,Neutral,2.3,2082-02-16
+228,Bina Tiwari praised for inclusive healthcare policies,125,Gorkhapatra,Positive,3.27,2082-04-11
+229,Urmila Aryal holds press conference on governance agenda,192,Online Khabar,Neutral,2.19,2082-03-28
+230,Binod Awasthi participates in all-party debate on healthcare,74,Deshsanchar,Neutral,7.8,2082-02-27
+231,Jeevan Airee accused of vote-buying in Bharatpur,169,NTV Plus,Negative,1.02,2082-02-03
+232,Election Commission verifies Bikash Parajuli's credentials,155,Gorkhapatra,Neutral,5.28,2082-02-08
+233,Voters rally behind Ganesh Sah for infrastructure agenda,94,Rising Nepal,Positive,5.45,2082-03-22
+234,Election Commission verifies Sunita Aryal's credentials,35,Image Channel,Neutral,2.15,2082-03-18
+235,Urmila Aryal declares assets worth NPR 30.1 crore,192,Online Khabar,Neutral,8.83,2082-02-10
+236,Lekh Dahal participates in all-party debate on education,47,Kantipur Daily,Neutral,5.62,2082-02-13
+237,Renuka Bhusal campaigns in rural Butwal districts,188,Setopati,Neutral,6.23,2082-03-26
+238,Bed Subba faces allegations of financial misconduct,132,Gorkhapatra,Negative,5.88,2082-03-18
+239,Gyan Acharya leads polls in Kathmandu according to latest survey,62,Gorkhapatra,Positive,3.6,2082-02-11
+240,Padam Koirala declares assets worth NPR 18.8 crore,2,The Himalayan Times,Neutral,2.49,2082-02-23
+241,Bimal Tamang campaigns in rural Dharan districts,207,Nagarik News,Neutral,3.82,2082-02-03
+242,Kamal Awasthi files candidacy for Dharan constituency,56,Rising Nepal,Neutral,6.36,2082-02-17
+243,Pradeep Lama campaigns in rural Kathmandu districts,95,My Republica,Neutral,5.07,2082-02-22
+244,Critics question Ranjana Tamang's stance on healthcare,213,NTV Plus,Negative,5.66,2082-04-08
+245,Roshan Chhetri participates in all-party debate on infrastructure,20,The Himalayan Times,Neutral,2.18,2082-02-14
+246,Bimala Chhetri files candidacy for Butwal constituency,133,Image Channel,Neutral,3.48,2082-02-16
+247,Critics question Meena Saud's stance on economy,202,The Himalayan Times,Negative,7.81,2082-02-27
+248,Sita Limbu's campaign finances under scrutiny,22,Ratopati,Negative,5.85,2082-03-18
+249,Shanta Subedi unveils comprehensive infrastructure manifesto,129,Ratopati,Positive,6.82,2082-02-23
+250,Bimal Magar files candidacy for Kathmandu constituency,57,Annapurna Post,Neutral,9.54,2082-03-21
+251,Rudra Thapa files candidacy for Janakpur constituency,16,My Republica,Neutral,6.02,2082-04-02
+252,Ganesh Sah receives endorsement from infrastructure leaders,94,Deshsanchar,Positive,9.34,2082-02-18
+253,Umesh Luitel participates in all-party debate on agriculture,142,The Himalayan Times,Neutral,1.06,2082-02-09
+254,Ram Giri praised for inclusive economy policies,76,The Himalayan Times,Positive,4.05,2082-02-17
+255,Kiran Airee files candidacy for Biratnagar constituency,171,The Himalayan Times,Neutral,2.94,2082-02-21
+256,Sanjay Bogati holds press conference on education agenda,193,Online Khabar,Neutral,6.25,2082-03-11
+257,Opposition calls for inquiry into Govinda Chhetri's healthcare dealings,72,Kantipur Daily,Negative,4.31,2082-03-16
+258,Padam Koirala leads polls in Janakpur according to latest survey,2,Online Khabar,Positive,6.41,2082-04-07
+259,Suresh Saud holds press conference on infrastructure agenda,148,Nagarik News,Neutral,8.55,2082-03-04
+260,Rashmi Pandey praised for inclusive governance policies,139,Nepal TV,Positive,3.13,2082-04-02
+261,Lekh Dahal leads polls in Biratnagar according to latest survey,47,My Republica,Positive,2.56,2082-02-12
+262,Narayan Giri's rally draws massive crowd in Kathmandu,65,My Republica,Positive,6.67,2082-03-18
+263,Gopal Pradhan embroiled in controversy over employment,29,The Himalayan Times,Negative,4.16,2082-02-18
+264,Dipak Pandey files candidacy for Hetauda constituency,34,Nepal TV,Neutral,7.2,2082-03-16
+265,Gita Devkota leads polls in Biratnagar according to latest survey,44,Online Khabar,Positive,7.34,2082-03-23
+266,Bhuwan Bhusal leads polls in Pokhara according to latest survey,15,The Himalayan Times,Positive,5.2,2082-03-25
+267,Rudra Thapa leads polls in Nepalgunj according to latest survey,16,Gorkhapatra,Positive,3.23,2082-04-14
+268,Kamal Rokaya's rally draws massive crowd in Bharatpur,179,Avenues TV,Positive,8.55,2082-02-02
+269,Yasoda Oli holds press conference on healthcare agenda,197,Nepal TV,Neutral,1.82,2082-03-22
+270,Bhuwan Parajuli unveils comprehensive agriculture manifesto,30,Rising Nepal,Positive,5.04,2082-03-10
+271,Pradeep Chand participates in all-party debate on agriculture,160,Deshsanchar,Neutral,6.68,2082-02-10
+272,Sabina Magar's campaign finances under scrutiny,140,NTV Plus,Negative,7.48,2082-04-08
+273,Bina Chaudhary participates in all-party debate on agriculture,70,Nagarik News,Neutral,2.82,2082-04-01
+274,Ashok Koirala receives endorsement from education leaders,40,Kantipur Daily,Positive,9.72,2082-04-06
+275,Voters rally behind Rajan Dahal for governance agenda,92,The Himalayan Times,Positive,2.0,2082-03-02
+276,Roshan Aryal praised for inclusive employment policies,58,Ratopati,Positive,5.07,2082-02-01
+277,Shila Airee receives endorsement from education leaders,130,The Himalayan Times,Positive,9.43,2082-03-20
+278,Sunita Aryal's rally draws massive crowd in Dharan,35,Gorkhapatra,Positive,6.49,2082-03-11
+279,Dil Mahato promises to transform infrastructure in 100 days,181,Nagarik News,Positive,8.42,2082-02-25
+280,Om Parajuli files candidacy for Bharatpur constituency,127,Gorkhapatra,Neutral,7.49,2082-03-28
+281,Bimal Devkota accused of vote-buying in Kathmandu,5,Deshsanchar,Negative,3.6,2082-02-11
+282,Sunita Tiwari declares assets worth NPR 45.8 crore,31,Ratopati,Neutral,2.08,2082-03-31
+283,Ganesh Dhakal leads polls in Bharatpur according to latest survey,198,Avenues TV,Positive,1.37,2082-02-02
+284,Kamal Rokaya leads polls in Hetauda according to latest survey,179,Avenues TV,Positive,7.54,2082-04-12
+285,Shyam Yadav files candidacy for Butwal constituency,18,Deshsanchar,Neutral,2.02,2082-02-10
+286,Bhim Thapa promises to transform economy in 100 days,187,Avenues TV,Positive,8.36,2082-02-26
+287,Bed Subba holds press conference on education agenda,132,Annapurna Post,Neutral,9.14,2082-04-05
+288,Critics question Sunita Aryal's stance on governance,35,Ratopati,Negative,6.69,2082-03-01
+289,Top Yadav campaigns in rural Butwal districts,71,Annapurna Post,Neutral,7.67,2082-03-24
+290,Govinda Khadka unveils comprehensive employment manifesto,128,Gorkhapatra,Positive,8.64,2082-04-11
+291,Election Commission verifies Ek Dhakal's credentials,48,Nepal TV,Neutral,6.16,2082-02-11
+292,Bimala Tharu unveils comprehensive governance manifesto,63,Nagarik News,Positive,1.64,2082-04-14
+293,Tara Khadka declares assets worth NPR 1.6 crore,134,Rising Nepal,Neutral,5.36,2082-02-16
+294,Ram Sapkota's campaign finances under scrutiny,26,Setopati,Negative,2.64,2082-04-14
+295,Voters express dissatisfaction with Sumitra Magar's record,150,Annapurna Post,Negative,7.71,2082-03-10
+296,Naresh Magar promises to transform employment in 100 days,52,Nagarik News,Positive,9.29,2082-03-16
+297,Ramesh Niraula unveils comprehensive corruption manifesto,17,Nepal TV,Positive,9.15,2082-03-08
+298,Lekh Sapkota holds press conference on governance agenda,114,Nepal TV,Neutral,3.36,2082-03-10
+299,Critics question Tara Khadka's stance on corruption,134,Deshsanchar,Negative,7.7,2082-02-28
+300,Election Commission verifies Naresh Bohora's credentials,175,Nagarik News,Neutral,9.22,2082-04-03

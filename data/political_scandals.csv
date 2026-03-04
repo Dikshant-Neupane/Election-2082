@@ -1,0 +1,81 @@
+scandal_id,candidate_id,scandal_type,media_attention_score,public_reaction_score,scandal_date
+1,64,Policy Controversy,7.35,8.41,2082-02-05
+2,42,Financial Misconduct,7.35,5.22,2082-02-23
+3,42,Corruption,8.89,5.51,2082-04-14
+4,42,Corruption,7.02,5.06,2082-02-20
+5,192,Corruption,3.57,3.94,2082-02-01
+6,131,Financial Misconduct,2.37,3.9,2082-03-26
+7,116,Corruption,9.91,6.59,2082-03-29
+8,22,Personal Issue,7.7,8.75,2082-04-08
+9,194,Financial Misconduct,5.91,8.99,2082-02-16
+10,116,Financial Misconduct,5.86,4.19,2082-02-08
+11,64,Policy Controversy,6.73,4.64,2082-02-14
+12,192,Personal Issue,1.31,2.69,2082-04-11
+13,24,Financial Misconduct,9.3,4.94,2082-03-29
+14,175,Policy Controversy,4.7,4.63,2082-03-08
+15,114,Corruption,9.07,8.92,2082-02-09
+16,29,Corruption,2.62,5.64,2082-04-03
+17,42,Financial Misconduct,8.58,6.09,2082-03-12
+18,54,Financial Misconduct,3.57,4.62,2082-02-12
+19,106,Financial Misconduct,8.54,5.75,2082-03-11
+20,133,Policy Controversy,8.02,8.83,2082-03-06
+21,192,Policy Controversy,3.92,5.5,2082-03-19
+22,49,Financial Misconduct,1.56,5.18,2082-04-07
+23,175,Personal Issue,1.27,5.26,2082-03-10
+24,131,Policy Controversy,3.24,3.25,2082-02-27
+25,42,Financial Misconduct,9.51,4.86,2082-04-13
+26,22,Personal Issue,9.74,6.65,2082-03-26
+27,86,Policy Controversy,2.82,5.38,2082-03-22
+28,116,Policy Controversy,8.03,7.56,2082-04-13
+29,29,Policy Controversy,1.85,4.07,2082-02-25
+30,24,Corruption,6.14,6.27,2082-02-11
+31,22,Corruption,6.44,7.36,2082-04-13
+32,86,Corruption,2.11,5.37,2082-03-08
+33,139,Financial Misconduct,6.21,4.02,2082-02-20
+34,194,Corruption,7.16,8.73,2082-03-30
+35,192,Financial Misconduct,1.48,1.85,2082-03-07
+36,47,Corruption,8.42,4.99,2082-02-07
+37,131,Policy Controversy,3.9,4.18,2082-03-14
+38,86,Financial Misconduct,1.12,5.74,2082-03-14
+39,100,Financial Misconduct,4.07,2.65,2082-03-12
+40,49,Personal Issue,5.45,1.54,2082-02-16
+41,55,Financial Misconduct,7.06,4.24,2082-02-25
+42,86,Corruption,4.43,3.75,2082-03-07
+43,194,Policy Controversy,5.64,8.05,2082-02-06
+44,47,Financial Misconduct,8.68,5.68,2082-03-29
+45,114,Policy Controversy,5.99,8.28,2082-03-14
+46,139,Policy Controversy,9.13,6.71,2082-03-01
+47,22,Financial Misconduct,6.04,8.28,2082-02-05
+48,29,Corruption,5.15,1.34,2082-02-22
+49,24,Corruption,9.5,9.4,2082-04-06
+50,72,Corruption,3.93,1.81,2082-02-13
+51,47,Policy Controversy,9.22,8.37,2082-03-26
+52,49,Corruption,5.4,2.73,2082-02-02
+53,17,Policy Controversy,6.71,5.58,2082-02-16
+54,161,Financial Misconduct,7.47,4.01,2082-02-14
+55,49,Corruption,4.04,2.89,2082-03-04
+56,86,Corruption,3.96,4.4,2082-02-08
+57,123,Personal Issue,3.03,4.29,2082-02-07
+58,125,Corruption,5.76,7.43,2082-02-07
+59,100,Policy Controversy,1.91,5.2,2082-02-06
+60,17,Personal Issue,5.85,8.71,2082-03-14
+61,131,Corruption,2.11,3.13,2082-03-19
+62,49,Corruption,4.8,2.19,2082-02-18
+63,64,Financial Misconduct,9.42,8.22,2082-04-13
+64,86,Policy Controversy,3.17,3.67,2082-04-05
+65,116,Policy Controversy,9.84,5.6,2082-03-29
+66,64,Financial Misconduct,8.78,6.8,2082-04-13
+67,106,Policy Controversy,8.82,7.53,2082-02-08
+68,77,Financial Misconduct,5.55,7.46,2082-03-11
+69,24,Financial Misconduct,9.17,5.3,2082-02-06
+70,42,Corruption,6.33,5.86,2082-03-31
+71,24,Policy Controversy,7.95,7.31,2082-03-25
+72,123,Corruption,1.18,2.36,2082-04-13
+73,131,Corruption,3.26,3.64,2082-03-05
+74,17,Corruption,9.11,5.26,2082-02-01
+75,114,Corruption,9.26,8.53,2082-03-20
+76,22,Policy Controversy,6.55,4.46,2082-02-01
+77,125,Financial Misconduct,9.62,5.96,2082-02-16
+78,194,Corruption,6.08,4.92,2082-02-02
+79,29,Corruption,4.25,1.95,2082-03-11
+80,114,Corruption,7.84,7.57,2082-04-04

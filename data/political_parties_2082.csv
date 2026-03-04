@@ -1,0 +1,26 @@
+party_id,party_name,party_abbreviation,party_leader_name,ideology,established_year,headquarters_city,registered_members,party_symbol_description
+1,Nepali Congress,NC,Sher Bahadur Deuba,Democratic,1947,"Sanepa, Lalitpur",1800904,Hand
+2,CPN-UML,UML,KP Sharma Oli,Communist,1991,"Balkhu, Kathmandu",1499921,Sun
+3,CPN (Maoist Centre),Maoist,Pushpa Kamal Dahal,Communist,1994,"Teku, Kathmandu",849227,Sun & Moon
+4,Rastriya Swatantra Party,RSP,Rabi Lamichhane,Centrist,2022,"Maitighar, Kathmandu",309695,Kite
+5,Rastriya Prajatantra Party,RPP,Rajendra Lingden,Conservative,1990,"Tripureshwor, Kathmandu",279796,Cow
+6,Janajati Rastriya Party,JRP,Resham Chaudhary,Regional,2017,"Tikapur, Kailali",120990,Tree
+7,Loktantrik Samajwadi Party,LSP,Mahantha Thakur,Socialist,2020,"Janakpur, Dhanusha",200392,Plough
+8,Nepal Majdoor Kisan Party,NMKP,Narayan Man Bijukchhe,Communist,1975,Bhaktapur,95355,Lamp
+9,Rastriya Janamorcha,RJM,Chitra Bahadur K.C.,Socialist,1990,Pyuthan,64273,Star
+10,Tharuhat Tarai Party Nepal,TTPN,Laxman Tharu,Regional,2008,Dang,54380,Elephant
+11,Nepal Samajwadi Party,NSP,Upendra Yadav,Socialist,2002,Saptari,180244,Bicycle
+12,Rastriya Abhiyan Party,RAP,Biraj Bhakta Shrestha,Centrist,2021,Kathmandu,42718,Arrow
+13,Janamat Party,JP,C.K. Raut,Regional,2019,Janakpur,94066,Lantern
+14,CPN (Unified Socialist),CPNUS,Madhav Kumar Nepal,Communist,2021,Kathmandu,320622,Hammer
+15,Naya Shakti Party,NSP2,Baburam Bhattarai,Socialist,2016,Kathmandu,88588,Rising Sun
+16,Bibeksheel Sajha Party,BSP,Ranju Darshana,Democratic,2017,Kathmandu,62252,Lotus
+17,Nepal Democratic Forum,NDF,Hridayesh Tripathi,Democratic,2008,"Birgunj, Parsa",72964,Torch
+18,Rastriya Janashakti Party,RJP,Ram Chandra Paudel,Centrist,2005,Gorkha,48170,Wheel
+19,Karnali Rastriya Party,KRP,Mahendra Shahi,Regional,2018,Surkhet,38637,River
+20,Gandaki Bikash Party,GBP,Prithvi Subba Gurung,Regional,2019,Pokhara,29202,Mountain
+21,Sanghiya Loktantrik Rastriya Manch,SLRM,Bijay Gachhadar,Democratic,2015,Rautahat,55885,Flag
+22,Nepal Prajatantrik Congress,NPC,Sagar Dhakal,Democratic,2020,Kathmandu,21709,Scale
+23,Samata Party,SP,Babita Shrestha,Socialist,2018,Kathmandu,18343,Dove
+24,Madhesh Janaadhikar Forum,MJF,Raj Kishore Yadav,Regional,2007,Birgunj,119290,Boat
+25,Swatantra Nagarik Party,SNP,Govinda Raj Joshi,Centrist,2023,Pokhara,14674,Crescent
