@@ -10,6 +10,14 @@ The dataset is designed to mimic realistic patterns found in Nepali elections wh
 
 Dates use the **Bikram Sambat (BS) calendar**, consistent with Nepal's official calendar system (e.g., 2082-04-15).
 
+## Election Outcome
+
+- **Winning party:** NC (20 / 55 seats, 36.4%)
+- **Party leader:** Sher Bahadur Deuba
+- **Majority:** No (majority threshold = 28 seats)
+
+> This is synthetic data -- do not treat results as factual.
+
 ## Sample Results
 
 ### Parliament Composition
@@ -40,6 +48,10 @@ Election-2082/
 │   └── political_scandals.csv
 ├── Analysis/
 │   └── nepal_election_2082_analysis.ipynb   # Main analysis notebook
+├── scripts/
+│   ├── export_images.py                    # Generate charts from CSVs
+│   └── compute_winner.py                   # Compute election winner
+├── images/                        # Generated charts and predictions
 ├── .venv/                         # Python virtual environment
 └── Readme.md
 ```
