@@ -144,6 +144,9 @@ The script will create the following files in `images/`:
 - `images/winner_vote_pct.png` — winner vote percentage by constituency
 - `images/feature_importance.png` — Random Forest feature importance
 
+- `images/prediction_scatter.png` — Actual vs predicted vote percentage scatter
+- `images/predictions.csv` — Table of `candidate_id`, `actual_vote_percentage`, `predicted_vote_percentage`
+
 After running the script, insert images in the README using Markdown, for example:
 
 ```

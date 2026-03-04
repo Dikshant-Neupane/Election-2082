@@ -128,6 +128,28 @@ def plot_feature_importance(candidates_df, events_df, social_df, news_df, scanda
     plt.savefig(out_path, dpi=150, bbox_inches='tight')
     plt.close()
 
+    # also save prediction results and an actual vs predicted scatter
+    try:
+        y_pred = rf.predict(X)
+        preds = pd.DataFrame({
+            'candidate_id': master['candidate_id'],
+            'actual_vote_percentage': y,
+            'predicted_vote_percentage': y_pred
+        })
+        preds.to_csv(os.path.join(IMAGES, 'predictions.csv'), index=False)
+
+        fig, ax = plt.subplots(figsize=(6, 6))
+        ax.scatter(y, y_pred, c='steelblue', alpha=0.6, edgecolor='k')
+        ax.plot([y.min(), y.max()], [y.min(), y.max()], 'r--', lw=1)
+        ax.set_xlabel('Actual Vote %')
+        ax.set_ylabel('Predicted Vote %')
+        ax.set_title('Actual vs Predicted Vote %')
+        plt.tight_layout()
+        plt.savefig(os.path.join(IMAGES, 'prediction_scatter.png'), dpi=150, bbox_inches='tight')
+        plt.close()
+    except Exception:
+        pass
+
 
 if __name__ == '__main__':
     tables = load_tables()
