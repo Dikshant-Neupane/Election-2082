@@ -1,22 +1,23 @@
 # Nepal Election 2082 - Data Analysis
 
-A data analysis project exploring synthetic election data for Nepal's hypothetical 2082 BS general election. The dataset covers political parties, candidates, voters, votes, campaign events, social media trends, media coverage, and political scandals across 55 constituencies.
+In this project, I analyzed a synthetic dataset of Nepal's hypothetical 2082 BS general election spanning **55 constituencies**, **26 political parties**, **215 candidates**, and over **3,000 registered voters**. Starting from 9 raw CSV files — covering everything from candidate profiles and voter demographics to campaign rallies, social media hashtags, media news coverage, and political scandals — I explored how these factors interrelate and ultimately shape election outcomes.
+
+**What I did:**
+
+- Loaded and cleaned all 9 datasets (parties, candidates, voters, votes, results, campaign events, social media trends, media news coverage, and political scandals), handling missing party IDs for independent candidates and Bikram Sambat calendar dates.
+- Investigated **candidate demographics** (age, gender, education, criminal records, declared assets, campaign budgets) and **voter turnout** patterns across provinces, gender, and age groups.
+- Analyzed **campaign activity** — rally attendance and media coverage scores — and their correlation with actual vote share.
+- Measured **social media sentiment** (hashtag mentions and sentiment scores on TikTok, YouTube, Facebook, Twitter) and ran linear regressions against vote percentage.
+- Examined **media news coverage** sentiment (positive, negative, neutral) per party and computed net sentiment ratios to assess media favorability.
+- Assessed the **impact of political scandals** (corruption, financial misconduct, policy controversies) on candidates' vote share and win rates using statistical tests.
+- Built a **Random Forest model** combining all these features to predict each candidate's vote percentage, and extracted feature importances to understand what matters most.
+
+**The outcome:**
+
+- **Nepali Congress (NC)** won the most seats — **20 out of 55** (36.4%) — led by **Sher Bahadur Deuba**, but fell short of the **28-seat majority threshold**, resulting in a hung parliament.
+- Scandals, media sentiment, social media buzz, and campaign spending all showed measurable associations with candidate performance, which the multi-factor model captures.
 
 > **Disclaimer:** All data in this project is entirely **fictional and synthetically generated**. It was created solely for **educational and learning purposes**. None of the data represents real election outcomes, real individuals, real political parties, or actual events. Any resemblance to real persons or organizations is purely coincidental and unintentional. **Do not cite this data as factual or use it for any real-world decision-making.**
-
-## About the Data
-
-The dataset is designed to mimic realistic patterns found in Nepali elections while being entirely synthetic.
-
-Dates use the **Bikram Sambat (BS) calendar**, consistent with Nepal's official calendar system (e.g., 2082-04-15).
-
-## Election Outcome
-
-- **Winning party:** NC (20 / 55 seats, 36.4%)
-- **Party leader:** Sher Bahadur Deuba
-- **Majority:** No (majority threshold = 28 seats)
-
-> This is synthetic data -- do not treat results as factual.
 
 ## Sample Results
 
